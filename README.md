@@ -1,0 +1,1 @@
+# solution-to-Print-a-Symmetrical-Triangle-of-Powers-of-2
